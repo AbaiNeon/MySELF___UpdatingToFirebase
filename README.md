@@ -1,2 +1,2 @@
 # UpdatingToFirebase
-qwe
+Отправляем данные C# в firebase (json)
