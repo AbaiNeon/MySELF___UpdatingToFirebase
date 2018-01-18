@@ -1,2 +1,2 @@
 # UpdatingToFirebase
-Отправляем данные C# в firebase (json)
+json-строку отправляем в firebase (C#)
